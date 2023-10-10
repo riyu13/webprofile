@@ -27,6 +27,7 @@ const Head = () => {
           src={me}
           alt="Profile"
         />
+        <h4 className="flex flex-row mt-2 text-xl">Gilang Firza Rivanka</h4>
         <h4 className="flex flex-row mt-2 text-xl">Fullstack Developer</h4>
         <p>{currentTime.toLocaleTimeString()}</p>
         <p>
