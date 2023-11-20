@@ -16,7 +16,7 @@ const Pengalaman = () => {
             <strong>PT. Yamaha Motor Co, LTD. cabang Fukuroi, Jepang</strong> -
             Line Worker Assembling
             <br />
-            <span className="date">Okt 2017 - Okt 2020</span>
+            <span className="date">November 2017 - Oktober 2020</span>
           </div>
           <div>
             <strong>
@@ -24,7 +24,7 @@ const Pengalaman = () => {
             </strong>{" "}
             - Intership
             <br />
-            <span className="date">Jan 2013 - Juni 2013</span>
+            <span className="date">Juli 2012 - Desember 2012</span>
           </div>
         </ul>
       </div>
