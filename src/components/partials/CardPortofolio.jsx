@@ -94,7 +94,7 @@ const CardPortofolio = () => {
                   Frontend <FaGithub />
                 </button>
               </a>
-              <a href="https://github.com/riyu13/frontend">
+              <a href="https://github.com/riyu13/backend">
                 <button className="btn btn-ghost">
                   Backend <FaGithub />
                 </button>
