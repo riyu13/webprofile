@@ -13,6 +13,12 @@ const Pengalaman = () => {
       <div className="card-body">
         <ul className="list-inside list-disc mt-2">
           <div>
+            <strong>PT. Yamaha Electronics Manufacturing Indonesia Pasuruan, Jawa Timur</strong> -
+            IT Programmer & IT Support
+            <br />
+            <span className="date">Desember 2023 - November 2024</span>
+          </div>
+          <div>
             <strong>PT. Yamaha Motor Co, LTD. cabang Fukuroi, Jepang</strong> -
             Line Worker Assembling
             <br />
