@@ -1,4 +1,4 @@
-import { MdWorkHistory } from "react-icons/md";
+Ki import { MdWorkHistory } from "react-icons/md";
 
 
 const Pengalaman = () => {
@@ -13,8 +13,20 @@ const Pengalaman = () => {
       <div className="card-body">
         <ul className="list-inside list-disc mt-2">
           <div>
+            <strong>PT. Yamaha Electronics Manufacturing Indonesia Pasuruan, Indonesia</strong> -
+            Staf Q-HSE, Standardization Department
+            <br />
+            <span className="date">Maret 2024 - Novemver 2024</span>
+          </div>
+          <div>
+            <strong>PT. Yamaha Electronics Manufacturing Indonesia Pasuruan, Indonesia</strong> -
+            Staf IT Programmer, Production Department
+            <br />
+            <span className="date">Desember 2023 - Februari 2024</span>
+          </div>
+           <div>
             <strong>PT. Yamaha Motor Co, LTD. cabang Fukuroi, Jepang</strong> -
-            Line Worker Assembling
+            Line Worker Assembling, Production Department
             <br />
             <span className="date">November 2017 - Oktober 2020</span>
           </div>
