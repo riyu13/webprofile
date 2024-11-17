@@ -14,7 +14,13 @@ const Pengalaman = () => {
         <ul className="list-inside list-disc mt-2">
           <div>
             <strong>PT. Yamaha Electronics Manufacturing Indonesia Pasuruan, Jawa Timur</strong> -
-            IT Programmer & IT Support
+              Staff Q-HSE , Standardization Department
+            <br />
+            <span className="date">Desember 2023 - November 2024</span>
+          </div>
+          <div>
+            <strong>PT. Yamaha Electronics Manufacturing Indonesia Pasuruan, Jawa Timur</strong> -
+             Staff IT Programmer & IT Support, Production Department
             <br />
             <span className="date">Desember 2023 - November 2024</span>
           </div>
