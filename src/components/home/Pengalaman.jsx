@@ -1,4 +1,4 @@
-Ki import { MdWorkHistory } from "react-icons/md";
+import { MdWorkHistory } from "react-icons/md";
 
 
 const Pengalaman = () => {
